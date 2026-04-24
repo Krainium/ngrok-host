@@ -237,7 +237,3 @@ Tested live on April 24, 2026. A folder with a single `index.html` was served vi
 
 URL in the address bar: `https://55b8-34-58-106-177.ngrok-free.app`  
 Page content: served from a local folder, live on the internet in under 4 seconds.
-
----
-
-*krainium*
